@@ -1,0 +1,3 @@
+// a page on what athletic training is
+// an educational page, videos, blogs…
+// about Lauren Smart
